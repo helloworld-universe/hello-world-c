@@ -1,5 +1,4 @@
-# hello-world-c
-Hello World in C
+# Hello World in C
 
 ## Install
 - Install Docker
